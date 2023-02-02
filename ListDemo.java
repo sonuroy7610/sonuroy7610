@@ -45,7 +45,8 @@ class GFG {
 
 		// Removes element from index 1
 		l1.remove(1);
-
+                 l1.remove(2);
+                  l1.remove(3);
 		// Printing the updated List 1
 		System.out.println(l1);
 
