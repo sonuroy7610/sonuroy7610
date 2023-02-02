@@ -34,6 +34,9 @@ class GFG {
 		l2.add(1);
 		l2.add(2);
 		l2.add(3);
+                l2.add(4);
+		l2.add(5);
+		l2.add(6);
 
 		// Will add list l2 from 1 index
 		l1.addAll(1, l2);
